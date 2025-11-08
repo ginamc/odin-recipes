@@ -1,0 +1,11 @@
+/* styles */
+
+h1 {
+    color: darkslategrey;
+    font-size: 48px;
+}
+
+.home {
+    text-align: center;
+    background-color: bisque;
+}
